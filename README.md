@@ -1,4 +1,11 @@
 # Waruga
+
+```
+Gede Krishna Yogananda
+311910429
+UAS Pemrograman Web
+```
+
 *Source Code* Aplikasi untuk ketua RT dalam manajemen data warga dan menghitung uang kas dari iuran warga.
 
 Silahkan ke [waruga.ibnux.org](http://waruga.ibnux.org) untuk versi yang tinggal pakai.
@@ -22,25 +29,5 @@ Saya kurang mengerti masalah lisensi perangkat lunak, maaf jika ada yang kurang 
 
 Untuk aplikasi Waruga sendiri berlisensi MIT.
 
-====
-**The MIT License**
+## LINK : https://youtu.be/eDD9uuyLzqs
 
-Copyright (c) 2014 Ibnu Maksum (me@ibnux.net)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
